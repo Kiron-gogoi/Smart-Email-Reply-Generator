@@ -1,0 +1,47 @@
+# =========================
+# Spring Boot / Maven
+# =========================
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+
+# Keep Maven wrapper configuration
+!.mvn/wrapper/maven-wrapper.properties
+
+# =========================
+# IntelliJ IDEA
+# =========================
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# =========================
+# Environment / Secrets
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# Node / React
+# =========================
+node_modules/
+dist/
+.vite/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
