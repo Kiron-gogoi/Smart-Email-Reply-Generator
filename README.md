@@ -65,6 +65,15 @@ Smart-Email-Reply-Generator/
 ├── pom.xml
 └── README.md
 ```
+## Screenshots
+
+### Application
+
+![Smart Email Reply Generator/Tone Selection](docs/Screenshot%201.jpg)
+
+### Generated Email Reply
+
+![Generated Email Reply](docs/Screenshot%202.jpg)
 
 ## How It Works
 
